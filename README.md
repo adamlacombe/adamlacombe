@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif)
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## ⚡ Technologies
 
