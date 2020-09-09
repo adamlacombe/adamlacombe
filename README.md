@@ -1,7 +1,9 @@
 ### Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=adamlacombe)
+_             |  _
+:-------------------------:|:-------------------------:
+[![How to convert images to AVIF in NodeJS](https://user-images.githubusercontent.com/2395597/92593476-c24bf300-f2d3-11ea-8331-0db3bbdf2854.png)](https://adamlacombe.com/blog/how-to-convert-images-to-avif-in-nodejs)  |  [![Introduction to Docker](https://user-images.githubusercontent.com/2395597/92593491-c546e380-f2d3-11ea-9f4b-e20613419a04.png)](https://adamlacombe.com/blog/introduction-to-docker)
 
-![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![trophy](https://github-profile-trophy.vercel.app/?username=adamlacombe)
 
 ## ⚡ Technologies
 
